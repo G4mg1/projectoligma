@@ -7,7 +7,7 @@ import threading
 # -------------------------------
 # Discord Bot Setup
 # -------------------------------
-TOKEN = "MTQ1NjA0NDE4MzI0MzQ1NjU3NA.GIZpyk.MThDhRb-BC6beg0zWTF6U4BZqBY2hbNqUWqlzo"  # <-- Put your Discord bot token here
+TOKEN = "MTQ1NjA0NDE4MzI0MzQ1NjU3NA.GqlBDT.jVNd1oFL1oLZRgbtnu1l1nvsepMDJ0FpiTjcUE"  # <-- Put your Discord bot token here
 ALLOWED_CHANNEL_ID = 1456062237822287972  # Only allow commands in this channel
 
 intents = discord.Intents.default()
